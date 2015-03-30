@@ -1,4 +1,4 @@
-This is veshimed's branch
+This is veshimed's 
 
 Mozilla.com Selenium Tests
 ============================
